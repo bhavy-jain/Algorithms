@@ -1,3 +1,4 @@
+//AVL trees are self balancing binary trees capable of performing insertion,deletion and other such opertions in O(log(n))
 #include<bits/stdc++.h>
 using namespace std;
 struct Node 
